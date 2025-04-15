@@ -1,0 +1,11 @@
+Nome: Rhyan Belarmino vanderley
+
+Comandos:
+git init --initial-branch=main : inicializa um repositório local na branch main
+git config user.name : altera o nome do usuário local do projeto
+git config user.email : altera o e-mail do usuário local do projeto
+git clone  https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead
+git add
+git commit -m
+git merge
+
